@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cardiology-near.example.com/sitemap.xml
